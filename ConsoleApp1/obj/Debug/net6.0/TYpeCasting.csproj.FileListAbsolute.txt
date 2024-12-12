@@ -1,0 +1,15 @@
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.csproj.AssemblyReference.cache
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.AssemblyInfoInputs.cache
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.AssemblyInfo.cs
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.csproj.CoreCompileInputs.cache
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TYpeCasting.exe
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TYpeCasting.deps.json
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TYpeCasting.runtimeconfig.json
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TYpeCasting.dll
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\TYpeCasting.pdb
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.dll
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\TYpeCasting.dll
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.pdb
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\TYpeCasting.genruntimeconfig.cache
+C:\Users\CDAC\Desktop\CHINMAY\.NET\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\TYpeCasting.dll
