@@ -1,0 +1,44 @@
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+var app = builder.Build();
+
+app.MapControllers();
+app.MapGet("/Home", () => new[] {"Chinmay","Bhake"});
+app.MapGet("/MyMethod", () => new[] { "hello .net Core" });
+app.Map("/Chinmay", () => new [] { "Heloo"});
+
+app.Run();
+
+"program.cs"
+
+using Microsoft.AspNetCore.Mvc;
+
+namespace RoutingEmpty.Controllers
+{
+    public class HomeController : Controller
+    {
+        [Route("/Index")]    
+        public IActionResult Index()
+        {
+            return View();
+        }
+        
+        public ContentResult ContentResult()
+        {
+            return Content("Hello");
+        }
+    }
+}
+
+"HomeController.cs"
+
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<h1>Chinmay Bhake</h1>
+
+"Indexcs.html"
+
